@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Snowball showdown game<br>🌱 I’m currently learning Game development <br> 
+🔭 I’m currently working on Infinity Castle Rush game<br>🌱 I’m currently learning Game development <br> 
 
 
 ## 🌐 Socials:
